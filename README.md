@@ -94,12 +94,3 @@ If you wish to contribute:
 3. Ensure code quality and include comments/documentation.
 4. Submit a pull request explaining your changes.
 
-## 📄 License
-
-Specify a license for your project (e.g. MIT, Apache-2.0).
-If you intend to allow open-source use, include a `LICENSE` file appropriately.
-
----
-
-If you like — I can generate a **complete** README (with placeholders filled) **based on actual columns from your CSV** (if you share column names).
-Do you want me to build that for you now?
