@@ -1,6 +1,3 @@
-Here’s a **README.md** template (in Markdown) tailored for your repository Delivery_Time_Prediction. You can copy this into your repo’s README.md and edit/expand as needed.
-
----
 
 # Delivery Time Prediction
 
